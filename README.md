@@ -25,8 +25,8 @@ Use Otsu's method to segment the image and display the results.
 
 ## Program
 
-# Developed by : Prem Kumar G
-# Register No: 212223230158
+# Developed by : FRANKLIN RAJ G
+# Register No: 212223230058
 
 # Load the necessary packages
 
@@ -80,20 +80,24 @@ for i in range(0,9):
 
 ### Original Image
 
-![alt text](<Screenshot 2025-04-25 210929.png>)
+![Screenshot 2025-04-25 210929](https://github.com/user-attachments/assets/a9d5a537-e84a-4cd3-b3d9-9c8e061bf0ee)
+
 
 ### Global Thresholding
+![Screenshot 2025-04-25 210948](https://github.com/user-attachments/assets/dc6bf351-2923-4548-a918-2ba9b729ff3d)
 
-![alt text](<Screenshot 2025-04-25 210948.png>)
-![alt text](<Screenshot 2025-04-25 211008.png>)
+
 
 ### Adaptive Thresholding
+![Screenshot 2025-04-25 211008](https://github.com/user-attachments/assets/dde7044c-7ceb-4054-83c6-659139c39ef0)
 
-![alt text](<Screenshot 2025-04-25 211023.png>)
+![Screenshot 2025-04-25 211023](https://github.com/user-attachments/assets/b35b29ae-e832-4fc0-a2e2-8fefa72cc2b4)
+
 
 ### Optimum Global Thesholding using Otsu's Method
+![Screenshot 2025-04-25 211036](https://github.com/user-attachments/assets/c39f1fde-0961-49ab-8345-7389da53e1fd)
 
-![alt text](<Screenshot 2025-04-25 211036.png>)
+
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
